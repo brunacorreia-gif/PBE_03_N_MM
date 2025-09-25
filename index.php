@@ -16,6 +16,10 @@
     <a href="pg04_02.php">isso é um link tbm</a><br>
     <a href="aula05_01.php">isso é um link tbm</a><br>
     <a href="aula05_02.php">isso é um link tbm</a><br>
+    <a href="aula05_02.php">isso é um link tbm</a><br>
+    <a href="aula06_01.php">isso é um link tbm</a><br>
+    <a href="aula06_02.php">isso é um link tbm</a><br>
+    <a href="aula07_01.php">isso é um link tbm</a><br>
 
 </body>
 </html>
